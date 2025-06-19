@@ -1,0 +1,93 @@
+[
+  {
+    "name": "ChatGPT",
+    "desc": "OpenAI's conversational assistant.",
+    "link": "https://chat.openai.com",
+    "category": "Chat",
+    "icon": "💬"
+  },
+  {
+    "name": "Claude",
+    "desc": "Anthropic's helpful, honest AI assistant.",
+    "link": "https://claude.ai",
+    "category": "Chat",
+    "icon": "🧠"
+  },
+  {
+    "name": "Google Gemini",
+    "desc": "Google’s multimodal AI for reasoning and tasks.",
+    "link": "https://gemini.google.com",
+    "category": "Chat",
+    "icon": "🔮"
+  },
+  {
+    "name": "Perplexity AI",
+    "desc": "Chat + search AI with sources.",
+    "link": "https://perplexity.ai",
+    "category": "Research",
+    "icon": "🔍"
+  },
+  {
+    "name": "Canva Magic",
+    "desc": "Generate designs and assets with AI.",
+    "link": "https://www.canva.com/magic-studio/",
+    "category": "Design",
+    "icon": "🎨"
+  },
+  {
+    "name": "Gamma",
+    "desc": "Create beautiful AI-powered presentations.",
+    "link": "https://gamma.app",
+    "category": "Presentation",
+    "icon": "📊"
+  },
+  {
+    "name": "Tome",
+    "desc": "Tell stories and ideas with AI slides.",
+    "link": "https://tome.app",
+    "category": "Presentation",
+    "icon": "📖"
+  },
+  {
+    "name": "Udio",
+    "desc": "Generate music from text.",
+    "link": "https://udio.ai",
+    "category": "Music",
+    "icon": "🎵"
+  },
+  {
+    "name": "Murf AI",
+    "desc": "Text to voice studio for creators.",
+    "link": "https://murf.ai",
+    "category": "Voice",
+    "icon": "🎤"
+  },
+  {
+    "name": "Fireflies",
+    "desc": "AI transcription for meetings and calls.",
+    "link": "https://fireflies.ai",
+    "category": "Productivity",
+    "icon": "📝"
+  },
+  {
+    "name": "Notion AI",
+    "desc": "AI-powered workspace and notes.",
+    "link": "https://notion.so",
+    "category": "Productivity",
+    "icon": "📔"
+  },
+  {
+    "name": "SlidesAI",
+    "desc": "Turn text into PowerPoint decks.",
+    "link": "https://slidesai.io",
+    "category": "Presentation",
+    "icon": "🖼️"
+  },
+  {
+    "name": "Sudowrite",
+    "desc": "Fiction writing assistant powered by GPT.",
+    "link": "https://www.sudowrite.com",
+    "category": "Writing",
+    "icon": "✍️"
+  }
+]
